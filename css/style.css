@@ -439,6 +439,13 @@ footer .copy{
 	.container{
 		width:90%;
 	}
+  .header-part .two-part .menu{
+    position: fixed;
+    top: 0;
+    margin-top: inherit;
+    background-color: red;
+    z-index: 99999;
+  }
   .container-awesome{
     width: 90%;
   }
