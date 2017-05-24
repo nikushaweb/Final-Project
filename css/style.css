@@ -468,7 +468,7 @@ footer .copy{
   .burger-icon{
   	display: flex;
   	position: relative;
-  	z-index: 9999;
+  	z-index: 99999;
   }
   nav{
   	position: fixed;
