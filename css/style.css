@@ -445,6 +445,9 @@ footer .copy{
     margin-top: inherit;
     background-color: red;
     z-index: 99999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .container-awesome{
     width: 90%;
@@ -465,7 +468,7 @@ footer .copy{
   .burger-icon{
   	display: flex;
   	position: relative;
-  	z-index: 50;
+  	z-index: 9999;
   }
   nav{
   	position: fixed;
