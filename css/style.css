@@ -443,7 +443,7 @@ footer .copy{
     position: fixed;
     top: 0;
     margin-top: inherit;
-    background-color: red;
+    background-color: #313332;
     z-index: 99999;
     display: flex;
     justify-content: center;
